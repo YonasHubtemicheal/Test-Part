@@ -10,4 +10,5 @@ after_success:
 notifications:
   email:
       recipients:
-	  - y.hubtemicheal1@nuigalway.ie
+      - y.hubtemicheal1@nuigalway.ie
+	  
